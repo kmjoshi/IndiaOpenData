@@ -40,6 +40,7 @@ Feel free to suggest additions to list (fork, PR etc.)
 - [India Night Lights](http://india.nightlights.io/#/nation/2007/12): satellite data of Indian villages at night from 1993-2013, a proxy for electrification
 
 ### Nifty tools
+- [Cheat Sheet](./Franconeri_ExperCeptionDotNet_ChartChooser.pdf) on which charts to use/when
 - Great slider: https://refreshless.com/nouislider/
 
 ### Open Data Questions
