@@ -89,5 +89,5 @@ Feel free to suggest additions to list (fork, PR etc.)
     - [@pallavipnt](https://twitter.com/pallavipnt)
 
 # open data meets
-    - datameet
-    - datakind | http://www.datakind.org/chapters/datakind-blr
+- datameet
+- datakind | http://www.datakind.org/chapters/datakind-blr
