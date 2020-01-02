@@ -87,7 +87,3 @@ Feel free to suggest additions to list (fork, PR etc.)
 - Other important Twitterati to follow:
     - [@rsutaria](https://twitter.com/rsutaria)
     - [@pallavipnt](https://twitter.com/pallavipnt)
-
-# open data meets
-- datameet
-- datakind | http://www.datakind.org/chapters/datakind-blr
